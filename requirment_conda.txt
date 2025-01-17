@@ -1,0 +1,6 @@
+conda-forge::ffmpeg-python
+conda-forge::moviepy
+conda-forge::pydub
+conda-forge::langdetect
+conda-forge::pycountry
+conda-forge::pysoundfile

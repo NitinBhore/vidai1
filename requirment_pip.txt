@@ -1,0 +1,10 @@
+wave
+whisper
+vosk
+git+https://github.com/linto-ai/whisper-timestamped
+librosa
+numpy==1.21
+ai4bharat-transliteration
+pillow
+pyparsing
+streamlit
