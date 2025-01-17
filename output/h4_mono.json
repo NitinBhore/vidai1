@@ -1,0 +1,20 @@
+{
+    "asset_type": "Video",
+    "assetId": "h4",
+    "date": "2021-10-06",
+    "time": "16:37:34",
+    "location": {
+        "latitude": "NA",
+        "longitude": "NA"
+    },
+    "format": "MP4",
+    "length": "0:00:30",
+    "transcript": "Sounday",
+    "details": [
+        {
+            "start_time": "00:00",
+            "end_time": "00:16",
+            "text": "Sounday"
+        }
+    ]
+}
